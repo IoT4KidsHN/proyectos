@@ -5,3 +5,11 @@ El Freenove Mecanum Wheel Car Kit para Raspberry Pi 5 es un completo y versátil
 El kit integra múltiples componentes, como motores controlados por PWM, sensores ultrasónicos para evitar obstáculos, control remoto vía Wi-Fi o Bluetooth, y una plataforma basada en Raspberry Pi 5, lo que permite ejecutar scripts en Python y expandir las capacidades del robot con inteligencia artificial, visión por computadora, y más.
 
 Este proyecto es ideal para fomentar el aprendizaje práctico en áreas como la programación de sistemas embebidos, Internet de las Cosas (IoT), automatización y robótica avanzada, promoviendo la creatividad, la resolución de problemas y el trabajo interdisciplinario.
+
+## Arquitectura del Auto Inteligente
+
+![Auto Inteligente](images/icon1.png)
+
+## Componentes (materiales)
+
+![Materiales](images/freenove_smart_car_kit_lista_materiales.png)
