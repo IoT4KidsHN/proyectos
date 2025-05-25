@@ -5,3 +5,5 @@ El proyecto Sensor de Movimiento forma parte del programa IoT4Kids y está dise�
 El sensor se conecta a una placa microcontroladora (como Arduino o Raspberry Pi), y puede activar diferentes respuestas automáticas: encender una luz LED, emitir una señal sonora, enviar una notificación o incluso activar una cámara o sistema de seguridad. Los estudiantes también pueden programar condiciones específicas para personalizar el comportamiento del sistema.
 
 Este proyecto permite comprender cómo funcionan los sistemas de detección, y tiene aplicaciones reales en hogares inteligentes, alarmas de seguridad, ahorro energético y automatización de espacios. Además, fomenta habilidades en programación, electrónica básica y pensamiento creativo, haciendo del aprendizaje una experiencia práctica y significativa.
+
+## Ejemplo
