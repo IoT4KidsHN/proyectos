@@ -81,7 +81,7 @@ except KeyboardInterrupt:
 
 ## Expansiones posibles
 
-- Sensor de movimiento para detectar vehículos.
+* Sensor de movimiento para detectar vehículos.
 * Módulo Wi-Fi o Bluetooth para control remoto.
 * Pantalla LCD para mostrar tiempo restante.
 * Control vía app o dashboard.
