@@ -9,3 +9,7 @@ Este proyecto es ideal para fomentar el aprendizaje práctico en áreas como la 
 ## Arquitectura del Auto Inteligente
 
 ![Auto Inteligente](images/icon1.png)
+
+## Componentes (materiales)
+
+![Materiales](images/freenove_smart_car_kit_lista_materiales.png)
