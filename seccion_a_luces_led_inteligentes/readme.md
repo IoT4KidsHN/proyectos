@@ -92,3 +92,8 @@ lo transforman ala parte digital.
 
 ![Fuente de poder](imagenes/fuente_de_poder.png)
 ![controlador](imagenes/controlador_sp107e.png)
+![luces led](imagenes/luces_led.png)
+
+## Diagrama
+
+![diagrama](imagenes/diagrama.png)
