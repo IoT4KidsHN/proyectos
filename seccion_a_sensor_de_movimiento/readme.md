@@ -34,3 +34,7 @@ Podemos considerar este sensor como un interruptor inductivo simple durante su u
 ## Diagrama de el Breadboard
 
 ![Sensor de Movimiento](imagenes/sensor_movimiento_diagrama_breadboard.png)
+
+## Codigo QR
+
+![Sensor de Movimiento](imagenes/seccion_a_sensor_de_movimiento.png)
