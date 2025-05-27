@@ -87,3 +87,8 @@ En su correcta implementación podremos &quot;ver&quot; la música por medio de
 dispositivos electrónicos y algoritmos que interpretan el mundo análogo y
 lo transforman ala parte digital.
 ¡GRACIAS POR SU ATENCION!
+
+## Materiales
+
+![Fuente de poder](imagenes/fuente_de_poder.png)
+![controlador](imagenes/controlador_sp107e.png)
