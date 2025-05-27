@@ -5,3 +5,5 @@ Cuando alguien se acerque al Detector de Movimiento, este se encenderá automát
 Este Sensor de Movimiento Infrarrojo puede detectar el espectro infrarrojo (firmas de calor) emitido por seres humanos y animales vivos.
 
 ## Materiales
+
+![Sensor de Movimiento](imagenes/seccion_a_sensor_movimiento_materiales.png)
