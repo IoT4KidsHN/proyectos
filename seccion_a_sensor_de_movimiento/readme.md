@@ -26,3 +26,11 @@ Podemos considerar este sensor como un interruptor inductivo simple durante su u
 ## Materiales
 
 ![Sensor de Movimiento](imagenes/seccion_a_sensor_movimiento_materiales.png)
+
+## Diagrama de el GPIO
+
+![Sensor de Movimiento](imagenes/sensor_movimiento_diagrama_gpio.png)
+
+## Diagrama de el Breadboard
+
+![Sensor de Movimiento](imagenes/sensor_movimiento_diagrama_breadboard.png)
