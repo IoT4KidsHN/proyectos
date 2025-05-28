@@ -121,4 +121,4 @@ GPIO22 o Pin 15 ---[220Ω]---|>|--- GND → LED Verde
 
 ## Diagrama
 
-![diagrama](imagenes/diagrama.png)
+![diagrama](imagenes/diagram.png)
