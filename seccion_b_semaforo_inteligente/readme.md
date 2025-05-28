@@ -85,3 +85,33 @@ except KeyboardInterrupt:
 * Módulo Wi-Fi o Bluetooth para control remoto.
 * Pantalla LCD para mostrar tiempo restante.
 * Control vía app o dashboard.
+
+# 🚦 Semáforo Inteligente con Freenove Starter Kit y Raspberry Pi 5
+
+Este proyecto utiliza el **Freenove Ultimate Starter Kit para Raspberry Pi 5** para simular un semáforo con LEDs controlados por Python y GPIO.
+
+---
+
+## ✅ Lista de Materiales
+
+| Componente                        | Cantidad |
+|----------------------------------|----------|
+| LED Rojo, Amarillo y Verde       | 1 de cada color |
+| Resistencias de 220Ω             | 3        |
+| Raspberry Pi 5                   | 1        |
+| Cables de conexión (Jumper wires)| 6-8      |
+| Breadboard                       | 1        |
+
+---
+
+## 🔌 Diseño del Breadboard
+
+Cada LED está conectado a un pin GPIO a través de una resistencia de 220Ω.
+
+**GPIO sugeridos:**
+
+* LED Rojo → GPIO 17
+* LED Amarillo → GPIO 27
+* LED Verde → GPIO 22
+
+**Conexión:**
