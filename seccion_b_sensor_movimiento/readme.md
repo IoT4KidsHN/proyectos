@@ -8,7 +8,7 @@ Este proyecto permite comprender cómo funcionan los sistemas de detección, y t
 
 ## Materiales
 
-![Sensor de Movimiento](imagenes/materialess.png)
+![Sensor de Movimiento](imagenes/materiales.png)
 
 ## Diagrama de el GPIO
 
@@ -16,7 +16,7 @@ Este proyecto permite comprender cómo funcionan los sistemas de detección, y t
 
 ## Diagrama de el Breadboard
 
-![Sensor de Movimiento](imagenes/sdiagrama.png)
+![Sensor de Movimiento](imagenes/diagrama.png)
 
 # Lógica del Programa (Python)
 
@@ -69,7 +69,3 @@ if __name__ == '__main__':     # Program entrance
         destroy()
         print("Ending program")
 ```
-
-## Codigo QR
-
-![Sensor de Movimiento](imagenes/seccion_a_sensor_de_movimiento.png)
