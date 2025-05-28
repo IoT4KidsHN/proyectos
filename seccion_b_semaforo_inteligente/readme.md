@@ -115,3 +115,10 @@ Cada LED está conectado a un pin GPIO a través de una resistencia de 220Ω.
 * LED Verde → GPIO 22
 
 **Conexión:**
+GPIO17 o Pin 11 ---[220Ω]---|>|--- GND → LED Rojo
+GPIO27 o Pin 13 ---[220Ω]---|>|--- GND → LED Amarillo
+GPIO22 o Pin 15 ---[220Ω]---|>|--- GND → LED Verde
+
+## Diagrama
+
+![diagrama](imagenes/diagrama.png)
