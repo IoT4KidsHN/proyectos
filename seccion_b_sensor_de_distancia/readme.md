@@ -8,7 +8,7 @@ Este proyecto es ideal para aprender los fundamentos de sensores electrónicos, 
 
 ## Materiales
 
-![Fuente de poder](imagenes/fmateriales.png)
+![Materiales](imagenes/materiales.png)
 
 ## Diagrama
 
