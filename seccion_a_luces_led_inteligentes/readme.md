@@ -20,23 +20,24 @@ estímulos.
 
 ## Componentes Necesarios
 
-1- Tira LED ALITOVE WS2811(500PCS)
-1 Controlador SP107E
-1 Fuente de poder 12V 30A
-1 Multímetro digital
-Varios Cables de conexión
-1 Adaptador de corriente DC
-1 Telefoneo inteligente
-Varias cinta adhesiva y soportes
+- 1- Tira LED ALITOVE WS2811(500PCS)
+- 1 Controlador SP107E
+- 1 Fuente de poder 12V 30A
+- 1 Multímetro digital
+- Varios Cables de conexión
+- 1 Adaptador de corriente DC
+- Varias cinta adhesiva y soportes
 
 ¿QUES ES UN LED?
-dispositivo semiconductor que emite luz cuando una corriente eléctrica
-pasa a través de él.
+dispositivo semiconductor que emite luz cuando una corriente eléctrica pasa a través de él.
+
 ¿QUE ES VOLTAJE?
 La diferencia de potencial eléctrico que impulsa la corriente.
+
 ¿QUE ES AMPERAJE?
 La cantidad de corriente eléctrica que circula a través del circuito.
-USO DEL MULTIMETRO
+
+## USO DEL MULTIMETRO
 
 1. Medición de voltaje en la fuente de poder.
 2. Verificación del consumo de corriente en la tira LED.
@@ -53,14 +54,12 @@ Tipos de LED
 9. LED de luz fría.
 10. LED de luz natural.
 
-El LED a utilizar
-&quot;ALITOVE 12 V WS2811&quot;
-Los LEDs WS2811 son direccionables , lo que significa que cada LED
-puede mostrar un color diferente , funcionan con 12 V DC y es
-crucial calcular el amperaje total para evitar sobrecargas (30 A para
-500 LEDs ) .
+## El LED a utilizar
 
-CONTROLADOR SP107E
+&quot;ALITOVE 12 V WS2811&quot;
+Los LEDs WS2811 son direccionables , lo que significa que cada LED puede mostrar un color diferente , funcionan con 12 V DC y es crucial calcular el amperaje total para evitar sobrecargas (30 A para 500 LEDs ) .
+
+## CONTROLADOR SP107E
 
 - controlador diseñado para manejar las tiras y módulos LED ,RGB
 (ws2011)
@@ -68,24 +67,25 @@ CONTROLADOR SP107E
 - vincular el controlador al dispositivo, por vida bluetooth
 - Probar patrones de colores predeterminados para verificar la
 conexión.
-Datos técnicos
-Voltajes 5-24 v
-Corriente de entrada 18-45 mA
-Alcance máximo de control
-remoto
 
-20 m
-Número máximo de pixeles 960
-Temperatura de funcionamiento 20ºC- + 60ºC
-Dimensiones 85 x 45 x 22 mm
-Peso 40 g
+## Datos técnicos
 
-Conclusión
+- Voltajes 5-24 v
+- Corriente de entrada 18-45 mA
+- Alcance máximo de control remoto 20 m
+- Número máximo de pixeles 960
+- Temperatura de funcionamiento 20ºC- + 60ºC
+- Dimensiones 85 x 45 x 22 mm
+- Peso 40 g
+
+## Conclusión
+
 Este proyecto es la demostración clara de pasar de la parte análoga a la
 parte digital.
 En su correcta implementación podremos &quot;ver&quot; la música por medio de
 dispositivos electrónicos y algoritmos que interpretan el mundo análogo y
 lo transforman ala parte digital.
+
 ¡GRACIAS POR SU ATENCION!
 
 ## Materiales
