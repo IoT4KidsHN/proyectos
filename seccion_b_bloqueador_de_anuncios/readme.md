@@ -25,8 +25,8 @@ Y en algunos casos, en dispositivo de red
 
 ## Requisitos
 
-Necesitamos un hardware donde hacer correr nuestro servidor DNS, y en este caso usaremos
-una Raspberry Pi, aunque podemos usar cualquier equipo, Dado que Pi-Hole es un servicio muy liviano, cualquier modelo de RPI es válido (no necesitamos mucha potencia).
+Necesitamos un hardware donde hacer correr nuestro servidor DNS, y en este caso usaremos un Raspberry Pi, aunque podemos usar cualquier equipo, Dado que Pi-Hole es un servicio muy liviano, cualquier modelo de RPI es válido (no necesitamos mucha potencia).
+
 Además el sistema bloqueador de publicidad. Pi-Hole al ser, un servidor DNS, puede bloquear también en páginas web que no quieres que se vean dentro de tu red y todo eso sin necesidad de configurar cada dispositivo individualmente, como los móviles que tengas en casa.
 
 ## Problema
@@ -41,8 +41,8 @@ seguridad en la web.
 
 ## Componentes Necesarios
 
-- Raspberry Pi 4 o superior (1)
-- Tarjeta Micro SD (32 GB) (1)
+- Raspberry Pi 5 (1)
+- Tarjeta Micro SD (128 GB) (1)
 - Adaptador de corriente (1)
 - Cable Ethernet (1)
 - Monitor y Teclado (1)
