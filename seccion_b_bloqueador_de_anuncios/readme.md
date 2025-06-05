@@ -52,4 +52,4 @@ seguridad en la web.
 
 ## Dashboard
 
-![diagrama](imagenes/seccion_b_dashboard.png)
+![diagrama](imagenes/pihole.png)

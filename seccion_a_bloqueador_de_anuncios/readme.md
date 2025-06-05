@@ -37,3 +37,7 @@ Imagen 1, PictureAdemás de bloquear anuncios, Pi-hole cuenta con una interfaz w
 Curiosamente, Pi-hole también incorpora un servidor DHCP integrado (dnsmasqd) que se puede configurar a través de su interfaz de administración. Supongo que la integración del servidor DHCP buscaba simplificar la configuración de los servidores DNS de los clientes , pero resulta muy práctico para redes domésticas.
 
 La gente puede confundir pi hole con pi adblock y lo cual no son iguales, aunque ambos estan relacionados con el bloqueo de anuncios.Pi-hole es un sistema completo para bloquear anuncios a nivel de red, mientras que “Pi Adblock” parece ser un término general o una extensión específica para el bloqueo de anuncios en navegadores o aplicaciones.  
+
+## Dashboard
+
+![diagrama](imagenes/pihole.png)
