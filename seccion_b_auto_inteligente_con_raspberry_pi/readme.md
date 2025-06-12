@@ -13,3 +13,75 @@ Este proyecto es ideal para fomentar el aprendizaje práctico en áreas como la 
 ## Componentes (materiales)
 
 ![Materiales](images/freenove_smart_car_kit_lista_materiales.png)
+
+## Tutorial
+
+## Motor
+
+Correr programa
+
+abrir la terminal de Raspberry Pi. Entrar los siguientes comandos para probar el motor.
+
+1. Entren al directorio en dónde se encuentra el código fuente.
+
+```
+cd ~/Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi/Code/Server
+```
+
+2. Ejecutar el comando test.py:
+
+```
+sudo python test.py Motor
+```
+
+## Movimientos avanzados
+
+```
+sudo python car.py Rotate
+```
+
+## Módulo ADC
+
+Para saber la carga de las baterías.
+
+```
+sudo python test.py ADC
+```
+
+## Módulo para seguimiento de línea infrarojo
+
+```
+sudo python test.py Infrared
+```
+
+## LED
+
+Enciende los LED del auto inteligente aleatoriamente.
+
+```
+sudo python test.py Led
+```
+
+## Buzzer
+
+```
+sudo python test.py Buzzer
+```
+
+### Servo
+
+```
+sudo python test.py Servo
+```
+
+### Módulo Ultrasónico
+
+```
+sudo python test.py Ultrasonic
+```
+
+## Cámera
+
+```
+python camera.py
+```
