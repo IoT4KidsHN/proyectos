@@ -38,6 +38,10 @@ Curiosamente, Pi-hole también incorpora un servidor DHCP integrado (dnsmasqd) q
 
 La gente puede confundir pi hole con pi adblock y lo cual no son iguales, aunque ambos estan relacionados con el bloqueo de anuncios.Pi-hole es un sistema completo para bloquear anuncios a nivel de red, mientras que “Pi Adblock” parece ser un término general o una extensión específica para el bloqueo de anuncios en navegadores o aplicaciones.  
 
+## Diagrama
+
+![diagrama](imagenes/pihole-diagrama.png)
+
 ## Dashboard
 
 ![diagrama](imagenes/pihole.png)
