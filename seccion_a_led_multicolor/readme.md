@@ -44,3 +44,7 @@ iluminación inteligente, decoración y enseñanza en tecnología.
 ## Diagrama
 
 ![diagrama](imagenes/breadboard_led.png)
+
+## QR Code
+
+![diagrama](imagenes/led_multicolor_qr_code.jpeg)
